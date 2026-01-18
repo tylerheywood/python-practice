@@ -22,6 +22,22 @@ Numbers can be positive or negative
 0 is only the stop signal (don’t count it)
 
 Assume at least one non-zero number will be entered.
+
+⚠️ Constraints
+
+❌ Do NOT use lists/tuples/sets/dicts
+
+❌ Do NOT use min() or max()
+
+❌ Do NOT use break
+
+❌ No libraries
+
+✅ Use a while loop
+
+✅ Convert input to int immediately
+
+✅ Must correctly initialise min_value and max_value based on the first non-zero input
 '''
 
 number = int(input("Enter a number: "))
