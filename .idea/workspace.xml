@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="796debdb-8168-4457-a845-be3cb7b9df5c" name="Changes" comment="refactoring into functions + misc projects from pre project">
-      <change afterPath="$PROJECT_DIR$/12-returning-structured-results(no-globals)/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-returning-structured-results(no-globals)/stats.py" afterDir="false" />
+    <list default="true" id="796debdb-8168-4457-a845-be3cb7b9df5c" name="Changes" comment="Returning structured results using OOP">
+      <change afterPath="$PROJECT_DIR$/00-Misc/DEV_LOG.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,18 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.balancetracker.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.v3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.balancetracker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.v3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Coding\PyCharm Projects\PythonFundamentalsPractice" />
@@ -140,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768861408648</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Returning structured results using OOP">
+      <option name="closed" value="true" />
+      <created>1768863063055</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768863063055</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,7 +156,8 @@
     <MESSAGE value="input validation and skip logic using try/except to validate" />
     <MESSAGE value="misc projects added from pre-training repo" />
     <MESSAGE value="refactoring into functions + misc projects from pre project" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring into functions + misc projects from pre project" />
+    <MESSAGE value="Returning structured results using OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Returning structured results using OOP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
