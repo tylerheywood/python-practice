@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="796debdb-8168-4457-a845-be3cb7b9df5c" name="Changes" comment="misc projects added from pre-training repo">
-      <change afterPath="$PROJECT_DIR$/11-refactoring-into-functions/main.py" afterDir="false" />
+    <list default="true" id="796debdb-8168-4457-a845-be3cb7b9df5c" name="Changes" comment="refactoring into functions + misc projects from pre project">
+      <change afterPath="$PROJECT_DIR$/12-returning-structured-results(no-globals)/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-returning-structured-results(no-globals)/stats.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Misc/balancetracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/00-Misc/balancetracker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Misc/booktracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/00-Misc/booktracker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Misc/expensecalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/00-Misc/expensecalculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Misc/savings.py" beforeDir="false" afterPath="$PROJECT_DIR$/00-Misc/savings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Misc/tynance.py" beforeDir="false" afterPath="$PROJECT_DIR$/00-Misc/tynance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768783729716</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="refactoring into functions + misc projects from pre project">
+      <option name="closed" value="true" />
+      <created>1768861408648</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768861408648</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,7 +148,8 @@
     <MESSAGE value="min max tracker challenge added" />
     <MESSAGE value="input validation and skip logic using try/except to validate" />
     <MESSAGE value="misc projects added from pre-training repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="misc projects added from pre-training repo" />
+    <MESSAGE value="refactoring into functions + misc projects from pre project" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring into functions + misc projects from pre project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
