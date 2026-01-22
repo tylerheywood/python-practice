@@ -40,11 +40,11 @@ Summary
 import pdfplumber
 from pathlib import Path
 
-path = Path(r"D:\Coding\PyCharm Projects\PythonFundamentalsPractice\00-Misc\sample invoices\invoice_2.pdf")
+path = Path(r"/Users/tylerheywood/PycharmProjects/PythonFundamentalsPractice/00-Misc/sample invoices/invoice_3.pdf")
 
 def preview_text(text: str, limit: int = 60) -> str:
     one_line = " ".join(text.split())  # collapse whitespace/newlines
-    return one_line[:limit] + ("..." if len(one_line) > limit else "")
+    return one_line[:limit] + ("..." if len(one_line) > limit else "") # if line is longer than limit show "..."
 
 print(f"File: {path.name}")
 

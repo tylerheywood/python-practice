@@ -84,3 +84,5 @@
 last change is PO detection additions.
 - Practiced projects focused on PDFPlumber and text command engines (CLI)
 
+## 2026-01-22
+- Touched on "Stack" data structures LIFO, like a deck of cards in rummy you can only take the last item you put on top
